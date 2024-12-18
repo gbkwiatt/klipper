@@ -77,21 +77,6 @@ extra:
     - name: English
       link: /
       lang: en
-    - name: 简体中文
-      link: /zh/
-      lang: zh
-    - name: 繁體中文
-      link: /zh-Hant/
-      lang: zh-Hant
-    - name: Magyar
-      link: /hu/
-      lang: hu
-    - name: Italiano
-      link: /it/
-      lang: it
-    - name: Français
-      link: /fr/
-      lang: fr
     # Alternate language links automatically added here
 
 # Navigation hierarchy (this should mimic the layout of Overview.md)
